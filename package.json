@@ -1,0 +1,23 @@
+{
+  "name": "webgl-three",
+  "version": "1.0.0",
+  "description": "学习webgl-three",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hearsay316/webgl-three.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hearsay316/webgl-three/issues"
+  },
+  "homepage": "https://github.com/hearsay316/webgl-three#readme",
+  "dependencies": {
+    "three": "^0.111.0"
+  }
+}
